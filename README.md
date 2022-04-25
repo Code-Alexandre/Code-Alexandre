@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Code-Alexandre
-- 👀 I’m interested in Video games
-- 🌱 I’m currently learning at Codeboxx
+- 👀 I’m interested in penetration testing
+- 🌱 I’m currently working at Codeboxx
 - 💞️ I’m looking to collaborate on nothing for the moment
 - 📫 How to reach me 
 
